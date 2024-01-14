@@ -1,4 +1,4 @@
-//Author Colby Bowie
+//Author Colby Bowie & Agbaleke Victor
 //January 19th, 2023
 
 #ifndef SPINNER_H
